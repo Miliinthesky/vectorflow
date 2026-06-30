@@ -40,6 +40,14 @@ VectorFlow AI automates this entire workflow, allowing designers and manufacture
 
 ---
 
+## Screenshot
+
+<img width="448" height="232" alt="Welcome En:CN" src="https://github.com/user-attachments/assets/1948be9f-d085-4bc6-a462-a9e747f0c279" />
+<img width="898" height="681" alt="UI En" src="https://github.com/user-attachments/assets/95c131c7-fb7a-4406-b349-d57363cd5304" />
+<img width="562" height="540" alt="Settings En" src="https://github.com/user-attachments/assets/4ff0e5d4-2f45-492c-a916-8afc94b4cf00" />
+
+---
+
 # Key Features
 
 ### AI-powered Workflow Automation
