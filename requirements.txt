@@ -1,0 +1,14 @@
+# UI 框架
+PySide6
+PyQtDarkTheme
+
+# 图像处理
+numpy
+opencv-python
+Pillow
+
+# AI API
+google-genai
+
+# 数据模型
+pydantic
