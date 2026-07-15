@@ -123,7 +123,7 @@ Switch anytime from the Settings window.
 
 # Installation
 
-1. Download the latest release from the [Releases]([https://github.com/Miliinthesky/vectorflow/releases/tag/v1.0.0) page.
+1. Download the latest release from the [Releases](https://github.com/Miliinthesky/vectorflow/releases/tag/v1.0.0) page.
 2. Open **VectorFlow AI.app**.
 3. Enter your Gemini API key.
 4. Select your input image.
